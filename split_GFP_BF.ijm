@@ -1,8 +1,7 @@
 // The following macro can achieve the following function
-// 1. remove brightfield channel or specific channel and merge the channels you want
+// 1. split the channels
 // 2. Save you wanted channels and merged channels into RGB images
 // 3. Make stack images in batch and autosave them
-// 4. Make montage images in batch and autosave them
 
 // Set input and output directories
 inputDir = "/Users/leafylove/Desktop/nd2_input/";
