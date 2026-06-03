@@ -16,7 +16,7 @@ SCALE       = 1.0;  // resize each panel before tiling (0.5 = half size)
 
 // ── Scale bar settings ───────────────────────────────────────────────────────
 SB_UM       = 100;          // physical length in µm
-SB_HEIGHT   = 8;            // bar thickness in pixels
+SB_HEIGHT   = 6;            // bar thickness in pixels
 SB_FONT     = 18;           // label font size
 SB_COLOR    = "White";      // bar + text colour ("White", "Black", "Yellow" …)
 SB_LOCATION = "Lower Right"; // "Lower Right", "Lower Left", "Upper Right", "Upper Left"
